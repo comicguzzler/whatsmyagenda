@@ -5,6 +5,8 @@
     align-items: center;
 }
 
+
+
 .hero {
     min-height: 100vh;
 }
@@ -12,6 +14,7 @@
 
 h1 {
     font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h2 {
     font-size: 4rem;
