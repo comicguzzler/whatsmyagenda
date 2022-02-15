@@ -55,7 +55,7 @@ h3 {
     box-sizing: content-box;
     border: 0.07em solid transparent;
     position: relative;
-    top: 2em;
+    top: 0em;
     user-select: none;
     cursor: grab;
   }
