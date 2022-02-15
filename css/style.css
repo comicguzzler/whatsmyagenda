@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(41, 41, 41);
-}
+    background: #667db6; 
+    background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); 
+  }
 
 
 .flex-center {
@@ -33,3 +34,7 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(100, 100, 100);
 }
+
+
+/* UFO */
+
