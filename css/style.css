@@ -8,3 +8,14 @@
 .hero {
     min-height: 100vh;
 }
+
+
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    font-size: 6rem;
+}
+h3 {
+    font-size: 10rem;
+}
