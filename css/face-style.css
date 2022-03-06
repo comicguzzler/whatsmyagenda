@@ -19,5 +19,5 @@ body {
 /*Its hiding twitter feed*/
 
 #mySidenav {
-    display: none;
-    }
+    display: block;
+}
