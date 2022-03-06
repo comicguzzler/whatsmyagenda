@@ -1,0 +1,19 @@
+/*Its hiding twitter feed*/
+
+#mySidenav {
+    display: none;
+    }
+    
+/* slide in twitter */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
