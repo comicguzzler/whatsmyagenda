@@ -1,8 +1,4 @@
-/*Its hiding twitter feed*/
 
-#mySidenav {
-    display: none;
-    }
     
 /* slide in twitter */
 .sidenav {
@@ -17,3 +13,9 @@
     transition: 0.5s;
     padding-top: 60px;
 }
+
+/*Its hiding twitter feed*/
+
+#mySidenav {
+    display: none;
+    }
